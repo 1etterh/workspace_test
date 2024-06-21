@@ -1,12 +1,9 @@
-
-
 ---
 name: 기능 개발 이슈
 about: 만든 기능 상세히 설명하자
 title: ''
 labels: enhancement
 assignees: ''
-
 ---
 
 - 만들 기능
