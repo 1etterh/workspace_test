@@ -1,11 +1,4 @@
----
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
 
----
 
 ---
 name: 기능 개발 이슈
